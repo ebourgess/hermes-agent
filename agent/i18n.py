@@ -53,6 +53,7 @@ _LANGUAGE_ALIASES: dict[str, str] = {
     "french": "fr", "français": "fr", "france": "fr", "fr-fr": "fr", "fr-be": "fr", "fr-ca": "fr", "fr-ch": "fr",
     "ukrainian": "uk", "ukrainisch": "uk", "українська": "uk", "uk-ua": "uk", "ua": "uk",
     "turkish": "tr", "türkçe": "tr", "tr-tr": "tr",
+    "arabic": "ar", "arab": "ar", "العربية": "ar", "عربي": "ar", "ar-sa": "ar", "ar-ae": "ar", "ar-eg": "ar", "ar-lb": "ar",
 }
 
 _catalog_cache: dict[str, dict[str, str]] = {}
